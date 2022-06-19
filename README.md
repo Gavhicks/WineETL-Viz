@@ -3,4 +3,4 @@ This project outlines my process of extracting wine scoring & pricing data from 
 
 The production database was then used to create a dashboard in PowerBI.
 
-![image](https://user-images.githubusercontent.com/107581128/174451307-3765b50b-e544-4a1d-88be-44fbb0268f80.png)
+![image](https://user-images.githubusercontent.com/107581128/174461104-030b9632-a80d-44bc-8e2a-e8368b5520c4.png)
